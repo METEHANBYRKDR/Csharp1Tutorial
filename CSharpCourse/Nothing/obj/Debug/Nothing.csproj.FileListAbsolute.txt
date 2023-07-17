@@ -1,0 +1,8 @@
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\bin\Debug\Nothing.exe.config
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\bin\Debug\Nothing.exe
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\bin\Debug\Nothing.pdb
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\obj\Debug\Nothing.csproj.AssemblyReference.cache
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\obj\Debug\Nothing.csproj.SuggestedBindingRedirects.cache
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\obj\Debug\Nothing.csproj.CoreCompileInputs.cache
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\obj\Debug\Nothing.exe
+C:\Users\meteh\source\repos\CSharpCourse\Nothing\obj\Debug\Nothing.pdb

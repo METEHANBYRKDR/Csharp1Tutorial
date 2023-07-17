@@ -1,0 +1,8 @@
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\bin\Debug\DogumTarihi.exe.config
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\bin\Debug\DogumTarihi.exe
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\bin\Debug\DogumTarihi.pdb
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\obj\Debug\DogumTarihi.csproj.AssemblyReference.cache
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\obj\Debug\DogumTarihi.csproj.SuggestedBindingRedirects.cache
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\obj\Debug\DogumTarihi.csproj.CoreCompileInputs.cache
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\obj\Debug\DogumTarihi.exe
+C:\Users\meteh\source\repos\CSharpCourse\DogumTarihi\obj\Debug\DogumTarihi.pdb

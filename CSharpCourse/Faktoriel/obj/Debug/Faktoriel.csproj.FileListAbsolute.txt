@@ -1,0 +1,8 @@
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\bin\Debug\Faktoriel.exe.config
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\bin\Debug\Faktoriel.exe
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\bin\Debug\Faktoriel.pdb
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\obj\Debug\Faktoriel.csproj.AssemblyReference.cache
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\obj\Debug\Faktoriel.csproj.SuggestedBindingRedirects.cache
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\obj\Debug\Faktoriel.csproj.CoreCompileInputs.cache
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\obj\Debug\Faktoriel.exe
+C:\Users\meteh\source\repos\CSharpCourse\Faktoriel\obj\Debug\Faktoriel.pdb

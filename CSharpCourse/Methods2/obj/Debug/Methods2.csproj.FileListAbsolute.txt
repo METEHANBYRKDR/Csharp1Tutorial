@@ -1,0 +1,8 @@
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\bin\Debug\Methods2.exe.config
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\bin\Debug\Methods2.exe
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\bin\Debug\Methods2.pdb
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\obj\Debug\Methods2.csproj.AssemblyReference.cache
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\obj\Debug\Methods2.csproj.SuggestedBindingRedirects.cache
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\obj\Debug\Methods2.csproj.CoreCompileInputs.cache
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\obj\Debug\Methods2.exe
+C:\Users\meteh\source\repos\CSharpCourse\Methods2\obj\Debug\Methods2.pdb

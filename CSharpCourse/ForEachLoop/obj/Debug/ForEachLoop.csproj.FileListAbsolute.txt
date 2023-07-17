@@ -1,0 +1,8 @@
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\bin\Debug\ForEachLoop.exe
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\bin\Debug\ForEachLoop.pdb
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\obj\Debug\ForEachLoop.csproj.AssemblyReference.cache
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\obj\Debug\ForEachLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\obj\Debug\ForEachLoop.exe
+C:\Users\meteh\source\repos\CSharpCourse\ForEachLoop\obj\Debug\ForEachLoop.pdb

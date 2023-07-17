@@ -1,0 +1,8 @@
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\bin\Debug\ConstructorsDeneme.exe.config
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\bin\Debug\ConstructorsDeneme.exe
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\bin\Debug\ConstructorsDeneme.pdb
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\obj\Debug\ConstructorsDeneme.csproj.AssemblyReference.cache
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\obj\Debug\ConstructorsDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\obj\Debug\ConstructorsDeneme.csproj.CoreCompileInputs.cache
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\obj\Debug\ConstructorsDeneme.exe
+C:\Users\meteh\source\repos\CSharpCourse\ConstructorsDeneme\obj\Debug\ConstructorsDeneme.pdb
